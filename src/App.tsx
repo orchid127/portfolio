@@ -5,25 +5,15 @@ import { Home, About, Projects, Contact} from './components/pages'
 function App() {
 
   return (
-    <>
+    <div className="bg-[#451F36]">
       <Navbar/>
-      <section>
-        <Home/>
-      </section>
-
-      <section id="about">
-        <About/>
-      </section>
+      <Home/>
+      <About/>
+      <Projects/>
+      <Contact/>
+    </div>
       
-      <section id="projects">
-        <Projects/>
-      </section>
-
-      <section id="contact">
-        <Contact/>
-      </section>
-    </>
-  )
+  );
 }
 
 export default App
