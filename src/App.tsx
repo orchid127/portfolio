@@ -1,4 +1,3 @@
-import './App.css'
 import Navbar from './components/Navbar'
 import { Home, About, Projects, Contact} from './components/pages'
 
