@@ -15,8 +15,8 @@ For now, this is what my website looks like :
 ## To do list
 
 - [x] styling all the sections
-- [ ] fix buttons
-- [ ] replace template text/images with the actual material
+- [x] fix buttons
+- [x] replace template text/images with the actual material
 - [ ] deploy first version of website
 - [ ] make the website responsive
 - [ ] add light mode
