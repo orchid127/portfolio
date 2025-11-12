@@ -1,5 +1,6 @@
 import { useState } from "react";
 import './Navbar.css'
+import Button from "./Button";
 
 export default function Navbar () {
     const [menuOpen, setMenuOpen] = useState(false)
@@ -17,7 +18,7 @@ export default function Navbar () {
                 <li><a href="#about" className="!text-[#FAF5E9] hover:!text-[#9C80DB] !no-underline">About</a></li>
                 <li><a href="#projects" className="!text-[#FAF5E9] hover:!text-[#9C80DB] !no-underline">Projects</a></li>
                 <li><a href="#contact" className="!text-[#FAF5E9] hover:!text-[#9C80DB] !no-underline">Contact</a></li>
-                <li><button className="text-[#C5B2E7] !rounded-4xl bg-[#823e783f] border !border-[#823E78] px-3 py-1 hover:bg-[#C5B2E7] hover:text-[#823e78] hover:!border-[#9C80DB]">Resume</button></li>
+                <li><Button title="Resume" link="/resume.pdf"/></li>
             </ul>
         </nav>
     );
