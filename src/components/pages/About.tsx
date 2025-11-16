@@ -8,7 +8,7 @@ export default function About () {
                 <div className="!text-[#FAF5E9] justify-center">
                     <p className="text-wrap text-[1.2rem]" >Hello ! My name is Kimberley and I like to program apps and video games that are as cute as they are functional. 
                     My coding started back in middle school, when I was introduced to programming by my father, 
-                    and then continued in high school when i started programming my own games in Python.
+                    and then continued in high school when I started programming my own games in Python.
                     Now, I’m a third-year student in computer science, looking for an apprenticeship to further my skills in web development.</p>
 
                     <div className="my-10">
