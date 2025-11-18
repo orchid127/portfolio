@@ -2,7 +2,7 @@
 
 export default function About () {
     return(
-        <section id="about" className="font-[Inter]">
+        <section id="about" className="scroll-mt-24 font-[Inter]">
             <div className="mx-20 mt-64">
                 <p className="!text-[#FAF5E9] text-[2rem] font-semibold flex items-center shrink-0 gap-4 whitespace-nowrap">About me<span className="h-2 w-full bg-[#823E78] rounded-full"></span></p>
                 <div className="!text-[#FAF5E9] justify-center">

@@ -1,7 +1,7 @@
 
 export default function Contact () {
     return(
-        <section id="contact" className="mx-20 pb-20 font-[Inter] !text-[#FAF5E9]">
+        <section id="contact" className="scroll-mt-24 mx-20 pb-20 font-[Inter] !text-[#FAF5E9]">
             <div className="pt-15">
                 <p className="!text-[#FAF5E9] text-[2rem] font-semibold flex items-center gap-4 whitespace-nowrap">
                     <span className="h-2 w-full bg-[#823E78] rounded-full"></span>Contact

@@ -20,6 +20,6 @@ For now, this is what my website looks like :
 - [x] fix buttons
 - [x] replace template text/images with the actual material
 - [x] deploy first version of website
-- [ ] make the website responsive
+- [x] make the website responsive
 - [ ] add light mode
 - [ ] add icon to website + change website name

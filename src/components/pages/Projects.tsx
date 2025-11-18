@@ -4,7 +4,7 @@ import Box from "../Box.tsx"
 export default function Projects () {
 
     return(
-        <section id="projects" className="mx-20  font-[Inter] !text-[#FAF5E9]">
+        <section id="projects" className="scroll-mt-24 mx-20 font-[Inter] !text-[#FAF5E9]">
             <div className="">
                 <p className="!text-[#FAF5E9] text-[2rem] font-semibold flex items-center gap-4 whitespace-nowrap"><span className="h-2 w-full bg-[#823E78] rounded-full"></span>Projects</p>
                 <div className="flex flex-wrap justify-center gap-4">
