@@ -10,7 +10,7 @@ export default function Projects () {
                 <div className="flex flex-wrap justify-center gap-4">
                     <Box title="Webther" description="Webther is a simple yet aesthetically pleasing desktop app, where the user can type the name of a city and get the current temperature of said city. Built with the framework Electron."
                     image="/webther.png" link="https://github.com/orchid127/webther"/>
-                    <Box title="Media Player" description="A basic C++ app that allows the user to select an mp3 file and play it." image="/media-player.png" link="about:blank"/>
+                    <Box title="Media Player" description="A basic C++ app that allows the user to select an mp3 file and play it." image="/media-player.png" link="none"/>
                 </div>
             </div>
         </section>
